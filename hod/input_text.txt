@@ -1,0 +1,37 @@
+On pdf position of the Logo and text
+
+#------ Header of pdf ----------- #
+Top right corner
+
+Logo.png
+
+
+Top left corner
+
+Jhon institute
+
+#------ Footer of pdf ----------- #
+Bottom right corner 
+
+It’s easy to play any musical instrument: 
+all you have to do is touch the right key at the right time and the instrument will play itself.
+
+
+
+
+Email to send to students
+
+Subject : "Your course material {{encoded_code}}"
+Reply to : y@gmail.com (which john going to configure)
+send to : students email from the excel sheet
+Body : 
+
+Hey {{username}},
+
+
+   Good to see the progress, Please find the attachment of your previous session.
+
+
+Thank you,
+John 
+
